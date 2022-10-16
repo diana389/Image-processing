@@ -2,13 +2,13 @@
 
 Exista urmatoarele functii:
 
-##  `TASK1:`
+##  `TASK1 - COMPRESIA IMAGINILOR:`
 Se citesc datele din fisierul de intrare si se formeaza arborele pe baza matricei citite, prin functia `div_p`. Apoi, se formeaza vectorul pe baza arborelui, prin functia `tree_to_vector`, se scriu datele in fisierul de iesire si se elibereaza memoria.
 
-##  `TASK2:`
+##  `TASK2 - DECOMPRESIA IMAGINILOR:`
 Se citesc datele din fisierul de intrare si se formeaza arborele pe baza vectorului, prin functia `vector_to_tree`. Apoi, se formeaza matricea pe baza arborelui, prin functie `tree_to_matrix`, se scriu datele in fisierul de iesire si se elibereaza memoria.
 
-##  `TASK3:`
+##  `TASK3 - OGLINDIREA IMAGINILOR:`
 Se citesc datele din fisierul de intrare si se formeaza arborele pe baza matricei citite, prin functia `div_p`. In functie de tipul primit ca argument, arborele se oglindeste, se formeaza noua matrice prin functia `tree_to_matrix`, se scriu datele in fisierul de iesire si se elibereaza memoria.
 
 ##  `AVERAGE:`
